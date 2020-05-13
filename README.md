@@ -1,2 +1,2 @@
 #MyApp
-This is my app. yo what people. How you be
+This is my app. Just for learning. Nothing special. At all. Bye ;)
